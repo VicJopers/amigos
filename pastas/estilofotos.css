@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+main img{
+    max-width: 300px;
+}
+a{
+    margin:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color:rgba(16, 63, 95, 0.76);
+    background-color: rgb(209, 146, 195);
+    padding: 5px; 
+    border-radius: 10px;
+}
+a:hover{
+    text-decoration: underline;
+    background-color: rgb(224, 3, 206);
+    color: bisque;
+}
